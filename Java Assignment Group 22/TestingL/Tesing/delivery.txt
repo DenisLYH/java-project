@@ -1,0 +1,2 @@
+{"deliveryID":"D0001","orderID":"O0001","deliveryRunnerID":"D001","deliveryAddress":{"houseNumber":"123","streetName":"Main St","residentialArea":"Taman Main","postalCode":"12345","city":"Kuala Lumpur","state":"Federal Territory of Kuala Lumpur"}}
+{"deliveryID":"D0002","orderID":"O0004","deliveryRunnerID":"D001","deliveryAddress":{"houseNumber":"456","streetName":"Elm St","residentialArea":"Taman Elm","postalCode":"54321","city":"Kuala Lumpur","state":"Federal Territory of Kuala Lumpur"}}

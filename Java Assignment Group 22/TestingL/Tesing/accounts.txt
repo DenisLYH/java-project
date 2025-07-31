@@ -1,0 +1,6 @@
+{"accountID":"A0001","userID":"C001","balance":100.0}
+{"accountID":"A0002","userID":"C002","balance":50.0}
+{"accountID":"A0003","userID":"C003","balance":120.0}
+{"accountID":"A0004","userID":"C004","balance":5.0}
+{"accountID":"A0005","userID":"C005","balance":18.0}
+{"accountID":"A0006","userID":"C006","balance":21.0}

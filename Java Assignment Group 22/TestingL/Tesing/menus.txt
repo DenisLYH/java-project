@@ -1,0 +1,6 @@
+{"vendorID":"V001","itemID":"M0001","itemName":"Burger","price":12.5,"status":"Available"}
+{"vendorID":"V001","itemID":"M0002","itemName":"Pizza","price":20.0,"status":"Available"}
+{"vendorID":"V001","itemID":"M0003","itemName":"Fries","price":5.0,"status":"Available"}
+{"vendorID":"V002","itemID":"M0004","itemName":"Sky Juice","price":1.0,"status":"Unavailable"}
+{"vendorID":"V002","itemID":"M0005","itemName":"Milo Ice","price":3.0,"status":"Available"}
+{"vendorID":"V002","itemID":"M0006","itemName":"Teh Ice","price":3.0,"status":"Available"}

@@ -1,0 +1,3 @@
+{"reviewID":"R0001","customerID":"C001","entityType":"F","reviewedEntityID":"M0001","rating":5,"comment":"Good"}
+{"reviewID":"R0002","customerID":"C001","entityType":"F","reviewedEntityID":"M0003","rating":3,"comment":"Okay"}
+{"reviewID":"R0003","customerID":"C001","entityType":"D","reviewedEntityID":"D001","rating":4,"comment":"Fast delivery"}
